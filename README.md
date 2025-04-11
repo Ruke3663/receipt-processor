@@ -1,6 +1,6 @@
-# Receipt Processor - Fetch Assessment
+# Receipt Processor 
 
-This project implements a Go-based webservice for the Fetch Receipt Processor assessment. It processes receipts via a REST API, calculates points based on specified rules, and stores data in memory. The implementation fulfills the API defined in `api.yml`, with endpoints for submitting receipts and retrieving points.
+This project implements a Go-based webservice for the Receipt Processor assessment. It processes receipts via a REST API, calculates points based on specified rules, and stores data in memory. The implementation fulfills the API defined in `api.yml`, with endpoints for submitting receipts and retrieving points.
 
 ## Features
 
